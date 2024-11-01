@@ -1,0 +1,6 @@
+[submodule "timm"]
+	path = timm
+	url = https://github.com/huggingface/pytorch-image-models
+[submodule "mmdet"]
+	path = mmdet
+	url = https://github.com/open-mmlab/mmdetection.git
